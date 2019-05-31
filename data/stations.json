@@ -22,6 +22,30 @@
         "desc": "CKUT is a non-profit, campus-community radio station based at McGill University",
         "logo": "http://music.ckut.ca/wp-content/uploads/2012/01/ckut_logo-1024x625.jpg",
         "stream": "http://stream.ckut.ca:8000/903fm-192-stereo"
+    },
+    {   "id": 4,
+        "station": "Radio Nova",
+        "desc": "Radio FM musicale parisienne avec une programmation alternative (Paris radio station broadcast with non-mainstream or underground artits playlist)",
+        "logo": "http://www.nova.fr/sites/default/files/2017-06/Grand_Mix_460x460.jpg",
+        "stream": "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
+    },
+    {   "id": 5,
+        "station": "Nova la Nuit",
+        "desc": "Programmation musicale nocturne de Radio Nova (Radio Nova night playlist)",
+        "logo": "http://www.nova.fr/sites/default/files/styles/ratio_1_400/public/2017-11/nova-la-nuit.jpg",
+        "stream": "http://nova-ln.ice.infomaniak.ch/nova-ln-128"
+    },
+    {   "id": 6,
+        "station": "France Culture",
+        "desc": "Chaîne de Radio France spécialisée dans la culture et les arts (French public radio)",
+        "logo": "https://www.franceculture.fr/img/logo_franceculture-filet.png",
+        "stream": "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
+    },
+    {   "id": 7,
+        "station": "Couleur 3",
+        "desc": "Chaîne de la radio publique de Suisse Romande (Swiss public radio station)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Couleur_3_logo.svg",
+        "stream": "http://stream.srg-ssr.ch/m/couleur3/mp3_128"
     }
 ]
 
